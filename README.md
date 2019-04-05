@@ -1,2 +1,4 @@
 # Data-Visualization-Tool
-In this project, we are looking for a web interface where user will come and upload his/her data set(CSV or Excel or MRI for now). There will be option provided where you choose visualization option according to your need.
+In this project, we are looking for a web interface where user will come and upload his/her data set(CSV or Excel or MRI for now). There will be option provided where you choose visualization option according to your need. After visualising, you can feed your model with different machine learning algorithm provided there to predict something. This Data Visualization Tool is not only helpful for bussiness but also for healthcare and medical. As a developer you probably know that how Machine Learning and Statistical Learning is useful for Finance, you might have some question that how will it help to medical.
+## How will it help to Medical?
+In medical field, daily there are lots of MRI producing each day. What if you can visualiza and something out of it. I come across this problem when i was applying for internship.
